@@ -1,4 +1,4 @@
-// Package ginwavefront ...
+// Package ginwavefront is a Gin middleware to emit metrics to Wavefront.
 package ginwavefront
 
 import (
